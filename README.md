@@ -25,18 +25,11 @@
     <img src="https://img.shields.io/badge/Discord-%40ReallyCreative-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: @ReallyCreative"/>
   </a>
 </p>
-
----
-
-## 🎧 My Discord Status
-
+<!-- Lanyard Discord Status -->
 <p align="center">
-  <img src="https://api.lanyard.rest/v1/users/1025574755593625681.png" alt="Lanyard Discord Status"/>
+  <img src="https://lanyard-profile-readme.vercel.app/api/1025574755593625681?bg=1F2227&borderRadius=8px" alt="Lanyard Discord Status"/>
 </p>
-<!-- 
-Make sure you are in the Lanyard Discord server for this to work: https://discord.gg/lanyard 
-And ensure your Discord activity status is enabled (User Settings -> Activity Privacy -> Display current activity as a status message)
--->
+<!-- End Lanyard Discord Status -->
 
 ---
 
