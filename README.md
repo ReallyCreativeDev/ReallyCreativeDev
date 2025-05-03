@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm ReallyCreative! 👋</h1>
-<h3 align="center">A 14-year-old Web Developer, Discord Bot Creator, and AI Enthusiast.</h3>
-<h4 align="center">Still learning and growing every day!</h4>
+<h3 align="center">A 14-year-old Web Developer, Discord Bot Dev, and API Dev.</h3>
+<h4 align="center">Still learning so sorry if it looks bad!</h4>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ReallyCreative&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
@@ -10,19 +10,20 @@
 
 ## 🚀 About Me
 
-*   🔭 I’m currently working on: [Configuring my GitHub Profile](https://github.com/ReallyCreativeYT/Cool-pfp-file) *(It's a fun challenge!)*
+*   🔭 I’m currently working on: [About-me-page-And-more](https://github.com/ReallyCreativeYT/Cool-pfp-file) *(It's a fun challenge!)*
 *   🌱 I’m currently learning: **C++** and **Rust**.
-*   💻 My experiences include building websites and Discord bots for various projects.
-*   ⚡ Fun fact: My username might be ReallyCreative, but coding often feels more like puzzle-solving! 😉
+*   💻 My experiences include building websites and Discord bots for various more projects.
+*   ⚡ Fun fact: I like to code
 *   📫 How to reach me: Shoot me a message on Discord! (Link below)
 
 ---
 
 ## 📫 Connect with Me
 
-<p align="center">
-  <a href="https://discord.com/users/1025574755593625681" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord: @reallycreative" height="30" width="40" /></a>
-</p>
+<a href="https://discord.com/users/1025574755593625681" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord Icon" height="30" width="40" />
+   @ReallyCreative
+</a>
 
 ---
 
@@ -48,7 +49,6 @@
 
 ## 📊 My GitHub Stats
 
-<!-- ⚠️ IMPORTANT: Verify your GitHub username is 'ReallyCreativedev' in the URLs below. Change if necessary! -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ReallyCreativedev&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Langs" />
 </p>
