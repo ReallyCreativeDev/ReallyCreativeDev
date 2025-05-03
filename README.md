@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm ReallyCreative! 👋</h1>
 <h3 align="center">A 14-year-old Web Developer, Discord Bot Dev, and API Dev.</h3>
-<h4 align="center">Still learning so sorry if it looks bad!</h4>
+<h4 align="center">Still learning so sorry if my code looks bad!</h4>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ReallyCreative&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
@@ -25,6 +25,18 @@
     <img src="https://img.shields.io/badge/Discord-%40ReallyCreative-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: @ReallyCreative"/>
   </a>
 </p>
+
+---
+
+## 🎧 My Discord Status
+
+<p align="center">
+  <img src="https://api.lanyard.rest/v1/users/1025574755593625681.png" alt="Lanyard Discord Status"/>
+</p>
+<!-- 
+Make sure you are in the Lanyard Discord server for this to work: https://discord.gg/lanyard 
+And ensure your Discord activity status is enabled (User Settings -> Activity Privacy -> Display current activity as a status message)
+-->
 
 ---
 
