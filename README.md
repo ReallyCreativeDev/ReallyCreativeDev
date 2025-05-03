@@ -20,10 +20,11 @@
 
 ## 📫 Connect with Me
 
-<a href="https://discord.com/users/1025574755593625681" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord Icon" height="30" width="40" />
-   @ReallyCreative
-</a>
+<p align="center">
+  <a href="https://discord.com/users/1025574755593625681" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%40ReallyCreative-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: @ReallyCreative"/>
+  </a>
+</p>
 
 ---
 
