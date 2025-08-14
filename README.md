@@ -1,6 +1,7 @@
-<h1 align="center">Hi, I'm ReallyCreative! 👋</h1>
-<h3 align="center">A 14-year-old Web Developer, Discord Bot Dev, and API Dev.</h3>
-<h4 align="center">Still learning so sorry if my code looks bad!</h4>
+<h1 align="center">Hi, I'm ReallyCreative! 📈</h1>
+<h3 align="center">A 15-year-old Web Developer, Discord Bot Dev, java, and lastly a website developer </h3>
+<h4 align="center">I take commissions contact my on discord! there will be a better way to contact later still working on it sorry</h4>
+<h5 align="center">Still learning so sorry if my code looks bad!</h5>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ReallyCreative&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
@@ -25,6 +26,7 @@
     <img src="https://img.shields.io/badge/Discord-%40ReallyCreative-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: @ReallyCreative"/>
   </a>
 </p>
+
 <!-- Lanyard Discord Status -->
 <p align="center">
   <img src="https://lanyard-profile-readme.vercel.app/api/1025574755593625681?bg=1F2227&borderRadius=8px" alt="Lanyard Discord Status"/>
@@ -33,7 +35,7 @@
 
 ---
 
-## 🛠️ Languages and Tools I Use
+## 🛠️ Languages and Tools I Use (or at least try to)
 
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
@@ -53,14 +55,14 @@
 
 ---
 
-## 📊 My GitHub Stats
+## 📊Stats!
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ReallyCreativedev&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ReallyCreativedev&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-      <!-- Adding space between stats images -->
+
   <img src="https://streak-stats.demolab.com/?user=ReallyCreativedev&theme=radical" alt="GitHub Streak" />
 </p>
 
