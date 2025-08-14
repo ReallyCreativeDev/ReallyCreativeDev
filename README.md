@@ -12,7 +12,7 @@
 
 *   🔭 I’m currently working on: [About-me-page-And-more](https://github.com/ReallyCreativeYT/Cool-pfp-file) *(Help me 😭!)*
 *   🌱 I’m currently learning: **C++** and **Rust**.
-*   💻 My experiences/justfunthigs include building websites and Discord bots and more.
+*   💻 My experiences / just fun thigs include building websites and Discord bots and more.
 *   ⚡ Fun fact: I like to code
 *   📫 How to reach me: Shoot me a message on Discord! (Link below)
 
