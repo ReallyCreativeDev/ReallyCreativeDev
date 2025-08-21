@@ -1,7 +1,5 @@
-<div style="text-align: center;">
-  <a href="https://git.io/typing-svg">
+<div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Helo.;My+name+it+ReallyCreative" alt="Typing SVG" />
-  </a>
 </div>
 <h3 align="center">A 15-year-old Web Developer, Discord Bot Dev, java, and lastly a website developer </h3>
 <h4 align="center">I take commissions contact my on discord! There will be a better way to contact later still working on it sorry</h4>
