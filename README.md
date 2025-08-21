@@ -39,9 +39,6 @@
 ### 🌐 Languages  
 <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,py" />
 
-### 🖥 Desktop
-<img src="https://go-skill-icons.vercel.app/api/icons?i=electron,tauri" />
-
 ### 🤖 Bot Development
 <img src="https://go-skill-icons.vercel.app/api/icons?i=discordjs" />
 
