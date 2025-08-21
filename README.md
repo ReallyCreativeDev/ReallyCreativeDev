@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm ReallyCreative! 📈</h1>
+<h1 align="center">https://readme-typing-svg.demolab.com/demo/?lines=Helo.;My+name+it+ReallyCreative</h1>
 <h3 align="center">A 15-year-old Web Developer, Discord Bot Dev, java, and lastly a website developer </h3>
 <h4 align="center">I take commissions contact my on discord! There will be a better way to contact later still working on it sorry</h4>
 <h5 align="center">Still learning so sorry if my code looks bad!</h5>
