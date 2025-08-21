@@ -1,7 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=Helo.;My+name+it+ReallyCreative" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=+++++Helo.;My+name+it+ReallyCreative" alt="Typing SVG" />
 </div>
+
 ---
+
 <h3 align="center">A 15-year-old Web Developer, Discord Bot Dev, java, and lastly a website developer </h3>
 <h4 align="center">I take commissions contact my on discord! There will be a better way to contact later still working on it sorry</h4>
 <h5 align="center">Still learning so sorry if my code looks bad!</h5>
