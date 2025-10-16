@@ -39,16 +39,37 @@
 <!-- End Lanyard Discord Status -->
 
 ---
+
+## 💻 Tech Stack
 <div align="center">
-## 🛠️ Languages and Tools I Use (or at least try to)
+
 ### 🌐 Languages  
-<img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,py" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,py,rust,java" />
+
+### 🎨 Frontend  
+<img src="https://go-skill-icons.vercel.app/api/icons?i=react,next,tailwindcss,redux,zustand" />
+
+### ⚙️ Backend  
+<img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,hono,flask,drizzle" />
+
+### 🗄️ Database  
+<img src="https://go-skill-icons.vercel.app/api/icons?i=mongo,mysql" />
+
+### 📱 Mobile  
+<img src="https://go-skill-icons.vercel.app/api/icons?i=expo" />
+
+### 🖥 Desktop
+<img src="https://go-skill-icons.vercel.app/api/icons?i=electron,tauri" />
 
 ### 🤖 Bot Development
 <img src="https://go-skill-icons.vercel.app/api/icons?i=discordjs" />
 
 ### 🛠️ Tools
-<img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,dreamweaver,git,github,postman" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,dreamweaver,pycharm,git,github,postman" />
+
+### ☁️ Infrastructure / Deployment  
+<img src="https://go-skill-icons.vercel.app/api/icons?i=cloudflare,workers,vercel,render,aws" /><br/>  
+<sub><sup>Note: I only have limited experience with AWS, Vercel and Electron</sup></sub>
 
 </div>
 
