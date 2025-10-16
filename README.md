@@ -75,10 +75,16 @@
 ---
 
 ## 📊Stats!
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ReallyCreativeDev&show_icons=true&locale=en&layout=compact&theme=tokyonight" height="160" />  
-<img src="https://github-readme-stats.vercel.app/api?username=ReallyCreativeDev&show_icons=true&locale=en&theme=tokyonight" height="160" />  
-
+<div align="center" style="display:flex;gap:12px;justify-content:center;align-items:center;flex-wrap:wrap;">
+  <!-- Both images forced to the same height so they match visually -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=ReallyCreativeDev&show_icons=true&locale=en&layout=compact&theme=tokyonight"
+    alt="Top Languages"
+    style="height:160px; object-fit:contain;"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ReallyCreativeDev&show_icons=true&locale=en&theme=tokyonight"
+    alt="GitHub Stats"
+    style="height:160px; object-fit:contain;"
+  />
 </div>
