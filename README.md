@@ -39,7 +39,7 @@
 <!-- End Lanyard Discord Status -->
 
 ---
-
+<div align="center">
 ## 🛠️ Languages and Tools I Use (or at least try to)
 ### 🌐 Languages  
 <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,py" />
