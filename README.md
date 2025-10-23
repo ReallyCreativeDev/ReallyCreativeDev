@@ -9,7 +9,15 @@
 <h5 align="center">Still learning so sorry if my code looks bad!</h5>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ReallyCreative&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <a href="https://komarev.com/ghpvc/?username=ReallyCreativeDev">
+    <img src="https://komarev.com/ghpvc/?username=ReallyCreativeDev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/ReallyCreativeDev?tab=followers">
+    <img src="https://img.shields.io/github/followers/ReallyCreativeDev?label=Followers&style=flat&color=00F7BB" alt="Followers"/>
+  </a>
+  <a href="https://github.com/ReallyCreativeDev?tab=repositories">
+    <img src="https://img.shields.io/github/stars/ReallyCreativeDev?affiliations=OWNER%2CCOLLABORATOR&style=flat&color=00F7BB" alt="Total Stars"/>
+  </a>
 </p>
 
 ---
