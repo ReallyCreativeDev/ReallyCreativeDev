@@ -84,7 +84,6 @@
 
 ## 📊Stats!
 <div align="center" style="display:flex;gap:12px;justify-content:center;align-items:center;flex-wrap:wrap;">
-  <!-- Both images forced to the same height so they match visually -->
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=ReallyCreativeDev&show_icons=true&locale=en&layout=compact&theme=tokyonight"
     alt="Top Languages"
@@ -96,3 +95,17 @@
     style="height:160px; object-fit:contain;"
   />
 </div>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=ReallyCreativeDev&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ReallyCreativeDev&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph"
+    alt="Contribution Graph"
+  />
+</p>
