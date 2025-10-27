@@ -40,11 +40,9 @@
   </a>
 </p>
 
-<!-- Lanyard Discord Status -->
 <p align="center">
   <img src="https://lanyard-profile-readme.vercel.app/api/1025574755593625681?bg=1F2227&borderRadius=8px" alt="Lanyard Discord Status"/>
 </p>
-<!-- End Lanyard Discord Status -->
 
 ---
 
@@ -98,7 +96,7 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=ReallyCreativeDev&theme=dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=ReallyCreativeDev&show_icons=true&locale=en"
     alt="GitHub Streak"
   />
 </p>
