@@ -98,7 +98,7 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=ReallyCreativeDev&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=ReallyCreativeDev&theme=dark&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
