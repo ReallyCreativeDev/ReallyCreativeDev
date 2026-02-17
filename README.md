@@ -4,8 +4,8 @@
 
 ---
 
-<h3 align="center">Web Developer, Discord Bot Dev, java, and lastly a website developer </h3>
-<h5 align="center">Still learning so sorry if my code looks bad!</h5>
+<h3 align="center">I'm a 15 year old developer</h3>
+<h5 align="center">Still learning so sorry if my code looks bad i ant good at coding :sob:</h5>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=ReallyCreativeDev">
