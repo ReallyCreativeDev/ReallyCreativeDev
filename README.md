@@ -5,7 +5,7 @@
 ---
 
 Hi, I'm ReallyCreaitve.
-I'm in highschool i am a freshman im interested in programming. I enjoy both backend and backend frontend, but usually not at the same time.
-My main language i like the most is is pyhton/java/js/ts.
+I'm in highschool i am a freshman im interested in programming anime and things like that. I enjoy both backend and backend frontend, but usually not at the same time because thats a lot of work.
+My main language i like the most is is pyhton/java/js/ts and some more im still learing.
 
-I will update this later
+I will update this later with more info.
